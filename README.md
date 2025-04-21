@@ -16,7 +16,6 @@ Here are some screenshots of the app in action:
 
 
 ![App Screenshot](assets/1.png)
-![App Screenshot](assets/2.png)
 
 
 
