@@ -10,6 +10,12 @@ A simple and user-friendly To-Do List app built using Python's Tkinter library.
 - Persistent UI
 - Save tasks
 
+![App Screenshot](assets/screenshot.png)
+
+
+
+
+
 ## 📦 Requirements
 
 - Python 3.x
